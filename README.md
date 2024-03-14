@@ -8,7 +8,7 @@
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
 # Steps to take Prior to Running the Code
-- In your Terminal, import the 'establishments.json' file using "mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json"
+- In your Terminal, import the 'establishments.json' file using "mongoimport --type json -d uk_food -c establishments --drop --jsonArray Starter_Code/Resources/establishments.json"
 - Once you open up your Jupyter Notebook file, make sure you import 'PyMongo' and 'Pretty Print'
 - Create an instance of Mongo Client
 
